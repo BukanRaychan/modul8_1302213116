@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AqQKol+WYeN9Zm3fTiiGkcFlI45ABXzklIbpP0FzxcI+O1l3S5ofS5oxU18XYOGlkpt1h/KovCf3VNGsSPtkuA==",
+  "dgSpecHash": "XOa2df/V/mRXxUsABs3VM5OPsoTEnPxe/0zsYYvi0iityc/1W/ZECXklPEtmpRS3dht+YMlmZAMO5wXGNjdy7Q==",
   "success": true,
   "projectFilePath": "E:\\modul8_1302213116\\modul8_1302213116\\modul8_1302213116.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Raychan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
